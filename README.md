@@ -30,7 +30,7 @@
 ## 🎥 Live Preview  
 
 <p align="center">
-  <img src="images/demo.gif" width="850"/>
+  <img src="interfacegif.gif" width="850"/>
 </p>
 
 ---
