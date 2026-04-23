@@ -7,7 +7,7 @@
 
 <!-- ===== LOGO + TITLE ===== -->
 <p align="center">
-  <img src="images/logo.png" width="100" />
+  <img src="mindful_icon-removebg-preview.png" width="100" />
 </p>
 
 <h3 align="center">🤖 Smart AI Assistant Web Application</h3>
@@ -48,8 +48,8 @@
 ## 🖼️ Screenshots  
 
 <p align="center">
-  <img src="images/screenshot1.png" width="400"/>
-  <img src="images/screenshot2.png" width="400"/>
+  <img src="screenshot1.png" width="400"/>
+  <img src="screenshot2.png" width="400"/>
 </p>
 
 ---
